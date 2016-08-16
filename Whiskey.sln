@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whiskey.UWP", "Whiskey\Whis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whiskey", "Whiskey\Whiskey\Whiskey.csproj", "{9A235503-EBD6-4110-9B62-D29BADF57FA0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7F63CBE7-8D20-44A6-94E2-EA1A6CC56718}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Users\mayur\Desktop\Logo.jpg = ..\..\Users\mayur\Desktop\Logo.jpg
+		ReadMe.md = ReadMe.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
