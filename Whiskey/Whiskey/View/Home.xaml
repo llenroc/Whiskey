@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Whiskey.View.Home">
+  <StackLayout Padding="10">
+    <Frame BackgroundColor="Silver" HasShadow="True" OutlineColor="Black" >
+      
+    <ActivityIndicator IsRunning="{Binding IsBusy}" IsVisible="{Binding IsBusy}"/>
+    <Label Text="{Binding CurrentQuote.Quote}"/>
+
+    </Frame>
+  </StackLayout>
+</ContentPage>
