@@ -45,5 +45,7 @@
 	<string>LaunchScreen</string>
 	<key>CFBundleShortVersionString</key>
 	<string></string>
+	<key>UIPrerenderedIcon</key>
+	<true/>
 </dict>
 </plist>
